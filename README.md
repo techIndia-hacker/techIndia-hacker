@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @techIndia-hacker
-- 👀 I’m interested in Android tweaking, rooting modding etc
+- 👋 Hi, I’m @techIndia-hacker and I 
+- 👀 My hobby is Android tweaking, rooting modding and music.
 - 🌱 I’m currently learning Android development
+- Professionally I am an web developer
 - 📫 How to reach me ... Telegram search
-
-<!---
-- 💞️ I’m looking to collaborate on ...
-techIndia-hacker/techIndia-hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
