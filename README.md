@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techIndia-hacker and I 
+- 👋 Hi, I’m @techIndia-hacker, welcome to my repo.
 - 👀 My hobby is Android tweaking, rooting modding and music.
 - 🌱 I’m currently learning Android development
 - <img width="3%" height="3%" alt="image" src="https://png.pngtree.com/png-clipart/20250116/original/pngtree-web-developer-3d-icon-isolated-on-a-white-background-highlighting-coding-png-image_20168154.png" />Professionally I am an web developer
