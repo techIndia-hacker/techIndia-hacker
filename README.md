@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techIndia-hacker and I 
 - 👀 My hobby is Android tweaking, rooting modding and music.
 - 🌱 I’m currently learning Android development
-- Professionally I am an web developer
+- <img width="2%" height="1.5%" alt="image" src="https://github.com/user-attachments/assets/32a65adb-1211-43e3-a268-ffca357455c1" /> Professionally I am an web developer
 - 📫 How to reach me ... Telegram search
